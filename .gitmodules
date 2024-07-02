@@ -7,3 +7,7 @@
 #
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0 OR LicenseRef-Apache-2.0-If-Not-Used-In-Template-Projects
+[submodule "動態畫面更新率 Variable refresh rate"]
+	path = 動態畫面更新率 Variable refresh rate
+	url = https://gitlab.com/libre-knowledge/variable-refresh-rate.git
+	ignore = dirty

@@ -12,13 +12,12 @@
 * [計算機圖形 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2)
 * [Computer graphics - Wikipedia](https://en.wikipedia.org/wiki/Computer_graphics)
 
-<!--
-## 解決方案
+## 子主題
 
-以下列舉本主題相關的解決方案：
+以下列舉本主題相關的主題：
 
-（待補）
--->
+* [動態畫面更新率 Variable refresh rate](https://gitlab.com/libre-knowledge/variable-refresh-rate)  
+  使螢幕得以使用與顯示界面相同的速度更新畫面，避免畫面撕裂
 
 ## 參考資料
 
