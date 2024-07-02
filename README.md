@@ -16,7 +16,7 @@
 
 以下列舉本主題相關的主題：
 
-* [動態畫面更新率 Variable refresh rate](https://gitlab.com/libre-knowledge/variable-refresh-rate)  
+* [動態畫面更新率 Variable Refresh Rate(VRR)](https://gitlab.com/libre-knowledge/variable-refresh-rate)  
   使螢幕得以使用與顯示界面相同的速度更新畫面，避免畫面撕裂
 
 ## 參考資料
